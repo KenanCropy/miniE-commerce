@@ -1,0 +1,137 @@
+[
+    {
+        "productName": "Xiaomi Redmi 13C 128 GB 6 GB Siyah",
+        "price": 7899,
+        "discountedPrice": 2,
+        "rating": 2,
+        "reviews": 2,
+        "imgPath": "path/to/xiaomi_redmi_13c.jpg",
+        "category": "Elektronik"
+    },
+    {
+        "productName": "Tefal Gv9820 Pro Express Vision Buhar Kazanlı Ütü",
+        "price": 15999,
+        "discountedPrice": 6,
+        "rating": 0,
+        "reviews": 0,
+        "imgPath": "path/to/tefal_iron.jpg",
+        "category": "Ev Aletleri"
+    },
+    {
+        "productName": "Philips Airfryer Xxl Hd9650/90 Advance Collection 7.3 lt",
+        "price": 6499,
+        "discountedPrice": 13,
+        "rating": 2,
+        "reviews": 2,
+        "imgPath": "path/to/philips_airfryer.jpg",
+        "category": "Mutfak Aletleri"
+    },
+    {
+        "productName": "Samsung Galaxy S24 256 GB 8 GB Ram Sarı Cep Telefonu",
+        "price": 42999,
+        "discountedPrice": 2,
+        "rating": 0,
+        "reviews": 0,
+        "imgPath": "path/to/samsung_s24.jpg",
+        "category": "Elektronik"
+    },
+    {
+        "productName": "Brother Ev Tipi Mekanik Dikiş Makinesi GS2700",
+        "price": 7399,
+        "discountedPrice": 14,
+        "rating": 5,
+        "reviews": 5,
+        "imgPath": "path/to/brother_sewing_machine.jpg",
+        "category": "Ev Aletleri"
+    },
+    {
+        "productName": "Serenad Kediler ve Zen - A'dan Z'ye Japon Kedi Felsefesi",
+        "price": 218,
+        "discountedPrice": 0,
+        "rating": 0,
+        "reviews": 0,
+        "imgPath": "path/to/serenad_kediler.jpg",
+        "category": "Kitaplar"
+    },
+    {
+        "productName": "Xiaomi Mi Smart Air Fryer 3.5 lt Yağsız Fritöz (Türkiye Garantili)",
+        "price": 2499,
+        "discountedPrice": 0,
+        "rating": 2,
+        "reviews": 2,
+        "imgPath": "path/to/xiaomi_airfryer.jpg",
+        "category": "Mutfak Aletleri"
+    },
+    {
+        "productName": "Samsung Galaxy S24 Ultra 512 GB 12 GB Ram Gri Cep Telefonu",
+        "price": 69375,
+        "discountedPrice": 5,
+        "rating": 3,
+        "reviews": 3,
+        "imgPath": "path/to/samsung_s24_ultra.jpg",
+        "category": "Elektronik"
+    },
+    {
+        "productName": "Pilsan 05-280 Tery Bery Uzaktan Kumandalı 12 V Akülü Araba",
+        "price": 12489,
+        "discountedPrice": 1,
+        "rating": 10,
+        "reviews": 10,
+        "imgPath": "path/to/pilsan_car.jpg",
+        "category": "Oyuncaklar"
+    },
+    {
+        "productName": "Oral-B Ağız Duşu Pro-Care Oxyjet Md20",
+        "price": 3012,
+        "discountedPrice": 5,
+        "rating": 0,
+        "reviews": 0,
+        "imgPath": "path/to/oral_b_md20.jpg",
+        "category": "Kişisel Bakım"
+    },
+    {
+        "productName": "Destek Yayınları Benim Bütün Hayallerim Gerçek Olur",
+        "price": 212,
+        "discountedPrice": 4,
+        "rating": 0,
+        "reviews": 0,
+        "imgPath": "path/to/destek_benim_hayallerim.jpg",
+        "category": "Kitaplar"
+    },
+    {
+        "productName": "Nemesis Kitap Yayınevi Gece Günlüğü - Kendine Telkin Ver",
+        "price": 150,
+        "discountedPrice": 2,
+        "rating": 0,
+        "reviews": 0,
+        "imgPath": "path/to/nemesis_gece_gunlugu.jpg",
+        "category": "Kitaplar"
+    },
+    {
+        "productName": "Kronik Kitap İmzalı - Hayat Acemileri İçin Yaşam Rehberi",
+        "price": 130,
+        "discountedPrice": 1,
+        "rating": 0,
+        "reviews": 0,
+        "imgPath": "path/to/kronik_hayat_acemileri.jpg",
+        "category": "Kitaplar"
+    },
+    {
+        "productName": "Can Yayınları Socrates Dergi No: 96",
+        "price": 380,
+        "discountedPrice": 3,
+        "rating": 0,
+        "reviews": 0,
+        "imgPath": "path/to/can_socrates_96.jpg",
+        "category": "Kitaplar"
+    },
+    {
+        "productName": "Artemis Yayınları Operatöre Bağlanıyorsunuz 3 - Ufukta Aşk",
+        "price": 352,
+        "discountedPrice": 11,
+        "rating": 0,
+        "reviews": 0,
+        "imgPath": "path/to/artemis_operatore_baglan.jpg",
+        "category": "Kitaplar"
+    }
+]

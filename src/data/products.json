@@ -6,7 +6,8 @@
         "rating": 2,
         "reviews": 2,
         "imgPath": "path/to/xiaomi_redmi_13c.jpg",
-        "category": "Elektronik"
+        "category": "Elektronik",
+        "count": 1
     },
     {
         "productName": "Tefal Gv9820 Pro Express Vision Buhar Kazanlı Ütü",
@@ -15,7 +16,8 @@
         "rating": 0,
         "reviews": 0,
         "imgPath": "path/to/tefal_iron.jpg",
-        "category": "Ev Aletleri"
+        "category": "Ev Aletleri",
+        "count": 1
     },
     {
         "productName": "Philips Airfryer Xxl Hd9650/90 Advance Collection 7.3 lt",
@@ -24,7 +26,8 @@
         "rating": 2,
         "reviews": 2,
         "imgPath": "path/to/philips_airfryer.jpg",
-        "category": "Mutfak Aletleri"
+        "category": "Mutfak Aletleri",
+        "count": 1
     },
     {
         "productName": "Samsung Galaxy S24 256 GB 8 GB Ram Sarı Cep Telefonu",
@@ -33,7 +36,8 @@
         "rating": 0,
         "reviews": 0,
         "imgPath": "path/to/samsung_s24.jpg",
-        "category": "Elektronik"
+        "category": "Elektronik",
+        "count": 1
     },
     {
         "productName": "Brother Ev Tipi Mekanik Dikiş Makinesi GS2700",
@@ -42,7 +46,8 @@
         "rating": 5,
         "reviews": 5,
         "imgPath": "path/to/brother_sewing_machine.jpg",
-        "category": "Ev Aletleri"
+        "category": "Ev Aletleri",
+        "count": 1
     },
     {
         "productName": "Serenad Kediler ve Zen - A'dan Z'ye Japon Kedi Felsefesi",
@@ -51,7 +56,8 @@
         "rating": 0,
         "reviews": 0,
         "imgPath": "path/to/serenad_kediler.jpg",
-        "category": "Kitaplar"
+        "category": "Kitaplar",
+        "count": 1
     },
     {
         "productName": "Xiaomi Mi Smart Air Fryer 3.5 lt Yağsız Fritöz (Türkiye Garantili)",
@@ -60,7 +66,8 @@
         "rating": 2,
         "reviews": 2,
         "imgPath": "path/to/xiaomi_airfryer.jpg",
-        "category": "Mutfak Aletleri"
+        "category": "Mutfak Aletleri",
+        "count": 1
     },
     {
         "productName": "Samsung Galaxy S24 Ultra 512 GB 12 GB Ram Gri Cep Telefonu",
@@ -69,7 +76,8 @@
         "rating": 3,
         "reviews": 3,
         "imgPath": "path/to/samsung_s24_ultra.jpg",
-        "category": "Elektronik"
+        "category": "Elektronik",
+        "count": 1
     },
     {
         "productName": "Pilsan 05-280 Tery Bery Uzaktan Kumandalı 12 V Akülü Araba",
@@ -78,7 +86,8 @@
         "rating": 10,
         "reviews": 10,
         "imgPath": "path/to/pilsan_car.jpg",
-        "category": "Oyuncaklar"
+        "category": "Oyuncaklar",
+        "count": 1
     },
     {
         "productName": "Oral-B Ağız Duşu Pro-Care Oxyjet Md20",
@@ -87,7 +96,8 @@
         "rating": 0,
         "reviews": 0,
         "imgPath": "path/to/oral_b_md20.jpg",
-        "category": "Kişisel Bakım"
+        "category": "Kişisel Bakım",
+        "count": 1
     },
     {
         "productName": "Destek Yayınları Benim Bütün Hayallerim Gerçek Olur",
@@ -96,7 +106,8 @@
         "rating": 0,
         "reviews": 0,
         "imgPath": "path/to/destek_benim_hayallerim.jpg",
-        "category": "Kitaplar"
+        "category": "Kitaplar",
+        "count": 1
     },
     {
         "productName": "Nemesis Kitap Yayınevi Gece Günlüğü - Kendine Telkin Ver",
@@ -105,7 +116,8 @@
         "rating": 0,
         "reviews": 0,
         "imgPath": "path/to/nemesis_gece_gunlugu.jpg",
-        "category": "Kitaplar"
+        "category": "Kitaplar",
+        "count": 1
     },
     {
         "productName": "Kronik Kitap İmzalı - Hayat Acemileri İçin Yaşam Rehberi",
@@ -114,7 +126,8 @@
         "rating": 0,
         "reviews": 0,
         "imgPath": "path/to/kronik_hayat_acemileri.jpg",
-        "category": "Kitaplar"
+        "category": "Kitaplar",
+        "count": 1
     },
     {
         "productName": "Can Yayınları Socrates Dergi No: 96",
@@ -123,7 +136,8 @@
         "rating": 0,
         "reviews": 0,
         "imgPath": "path/to/can_socrates_96.jpg",
-        "category": "Kitaplar"
+        "category": "Kitaplar",
+        "count": 1
     },
     {
         "productName": "Artemis Yayınları Operatöre Bağlanıyorsunuz 3 - Ufukta Aşk",
@@ -132,6 +146,7 @@
         "rating": 0,
         "reviews": 0,
         "imgPath": "path/to/artemis_operatore_baglan.jpg",
-        "category": "Kitaplar"
+        "category": "Kitaplar",
+        "count": 1
     }
 ]

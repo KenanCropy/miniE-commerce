@@ -41,3 +41,30 @@ model Account {
   @@unique([provider, providerAccountId])
 }
 
+
+model UserBasket {
+  id String @id @default(cuid())
+  userId String
+  userName String
+  productName String
+  price Float
+  count Int
+  createdAt   DateTime @default(now())
+}
+
+model Order {
+  id          String       @id @default(cuid())
+  userId      String
+  createdAt   DateTime     @default(now())
+  totalAmount Float
+  items       OrderItem[]
+}
+
+model OrderItem {
+  id          String   @id @default(cuid())
+  orderId     String
+  productName String
+  productPrice Float
+  productCount Int
+  Order       Order    @relation(fields: [orderId], references: [id])
+}

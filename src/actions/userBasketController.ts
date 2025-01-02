@@ -39,7 +39,6 @@ export const addBasket = async (
     
 }
 
-
 export const getBasket = async(
     userId:string
 ) => {
@@ -83,6 +82,14 @@ export const updateOrRemoveProductInBasket = async (
     }
 };
 
+
+
+export const deleteBasket = async (
+  userId: string
+) => {
+  await db.userBasket.deleteMany({ where: { userId: userId } });
+};
+
 export const createOrder = async (
   userId: string,
   basket: Basket[]
@@ -113,8 +120,16 @@ export const createOrder = async (
   return order;
 };
 
-export const deleteBasket = async (
+export const getOrder = async(
   userId: string
 ) => {
-  await db.userBasket.deleteMany({ where: { userId: userId } });
+  const order = await db.order.findMany({
+    where: {
+      userId,
+    },
+  });
+  if(order){
+    return order
+  }
+  return{error: "Sipariş bulunamadı"}
 }
